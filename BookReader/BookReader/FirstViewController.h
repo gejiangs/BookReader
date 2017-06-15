@@ -6,9 +6,9 @@
 //  Copyright © 2017年 郭江. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "BaseTableViewController.h"
 
-@interface FirstViewController : UIViewController
+@interface FirstViewController : BaseTableViewController
 
 
 @end
